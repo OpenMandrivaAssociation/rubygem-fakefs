@@ -3,7 +3,7 @@
 Summary:    A fake filesystem. Use it in your tests
 Name:       rubygem-%{oname}
 Version:    0.2.1
-Release:    %mkrel 1
+Release:    2
 Group:      Development/Ruby
 License:    MIT
 URL:        http://github.com/defunkt/fakefs
